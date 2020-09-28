@@ -8,4 +8,3 @@
 
 **Roblox:** https://www.roblox.com/users/1144151130/profile <br/>
 **RBXDev:** https://devforum.roblox.com/u/ScobayDu <br/>
-**Discord:** ScobayDu#0001
