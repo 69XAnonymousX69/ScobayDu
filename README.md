@@ -11,3 +11,8 @@ Any opinions I share are my own.
 
 **Roblox:** https://www.roblox.com/users/1144151130/profile <br/>
 **RBXDev:** https://devforum.roblox.com/u/ScobayDu <br/>
+
+<h3>🚀 Projects</h3>
+
+* **Roblox Model File Decoder:** <https://devforum.roblox.com/t/roblox-model-file-decoder/630292>
+<br/><https://github.com/ScobayDu/ScobayDu/blob/master/2020-06-17-Roblox-Binary-File-Reader.md>
