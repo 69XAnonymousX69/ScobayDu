@@ -11,7 +11,8 @@ Any opinions I share are my own.
 
 <h3>🚀 Projects</h3>
 
-* **Roblox Model File Decoder:** <https://devforum.roblox.com/t/roblox-model-file-decoder/630292>
+* **Roblox Model File Decoder:** <https://devforum.roblox.com/t/roblox-model-file-decoder/630292><br/>
+This is a basic utility written in Roblox Lua to be able to read Roblox model files which are encoded with Roblox's binary format.
 <br/><https://github.com/ScobayDu/ScobayDu/blob/master/2020-06-17-Roblox-Binary-File-Reader.md>
 
 <h3>💬 Socials</h3>
