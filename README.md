@@ -4,7 +4,7 @@
 <p><b>Discord Community:</b> <a href=https://discord.gg/starboardstudios>https://discord.gg/starboardstudios</a></p>
 
 <h3>🍕 About Me</h3>
-I have experience with Lua and basic understanding of C++ and Assembly. My main passion is security, reverse engineering and business management.<br/><br/>
+I have experience with Lua, JavaScript and basic understanding of C++ and Assembly. My main passion is security, reverse engineering and business management.<br/><br/>
 
 I don’t really have a lot of open-source projects as a lot of what I do is confidential and proprietary. Any projects I can open source, I usually will post about them on the Roblox Developer Forum - if they’re related to Roblox.
 
