@@ -20,4 +20,3 @@ This is a basic utility written in Roblox Lua to be able to read Roblox model fi
 
 * **Roblox:** https://www.roblox.com/users/1144151130/profile <br/>
 * **Roblox Developer Forum:** https://devforum.roblox.com/u/ScobayDu <br/>
-* **Discord:** Sky#2491
