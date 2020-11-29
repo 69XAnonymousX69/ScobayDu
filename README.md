@@ -16,11 +16,21 @@ Any opinions I share are my own.
 This is a basic utility written in Roblox Lua to be able to read Roblox model files which are encoded with Roblox's binary format.<br>
 <br/><b>Technical Information:</b> <https://skylar.gg/2020-06-17-Roblox-Binary-File-Reader><br/><b>Roblox Developer Forum Post:</b> <https://devforum.roblox.com/t/roblox-model-file-decoder/630292>
 
-<h3>💬 Socials</h3>
+<h3>💬 Socials</h3><br/>
 
-* **Roblox:** https://www.roblox.com/users/1144151130/profile <br/>
-* **Roblox Developer Forum:** https://devforum.roblox.com/u/ScobayDu <br/>
+<p>
+    <a href="https://www.roblox.com/users/1144151130/profile"><img src="https://cdn.kat.digital/Testing/Roblox.svg" height="14"></a><b> Roblox:</b> https://www.roblox.com/users/1144151130/profile
+</p>
+
+<p>
+    <a href="https://devforum.roblox.com/u/ScobayDu"><img src="https://cdn.kat.digital/Testing/DevForum.svg" height="14"></a><b> Roblox Developer Forum:</b> https://devforum.roblox.com/u/ScobayDu
+</p>
+
+
+<p>
+    <a href="https://twitter.com/ScobayDu_"><img src="https://cdn.kat.digital/Testing/Twitter.svg" height="14"></a><b> Twitter:</b> https://twitter.com/ScobayDu_
+</p>
 
 <br/>
 
-<a href="https://www.roblox.com/users/3933244/profile"><img src="https://cdn.kat.digital/Testing/Heart.svg" height="20"></a>
+<p align="center"><a href="https://www.roblox.com/users/3933244/profile"><img src="https://cdn.kat.digital/Testing/Heart.svg" height="20"></a></p>
