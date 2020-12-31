@@ -1,6 +1,6 @@
 <h1>Hey, I'm Sky！✌ </h1>
 
-<h3>Business Systems Analyst & Developer for Starboard Studios (<a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">The Wild West</a>)</h3>
+<h3>Business Manager & Developer for Starboard Studios (<a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">The Wild West</a>)</h3>
 <p><b>Discord Community:</b> <a href=https://discord.gg/starboardstudios>https://discord.gg/starboardstudios</a></p>
 
 <h3>🍕 About Me</h3>
@@ -18,7 +18,7 @@ This is a basic utility written in Roblox Lua to be able to read Roblox model fi
 
 <h3>📚 Experience</h3>
 
-* **Business Systems Analyst and Developer at Starboard Studios** • <small><i>11th of August, 2020 - Present</i></small><br/>
+* **Business Manager & Developer at Starboard Studios** • <small><i>11th of August, 2020 - Present</i></small><br/>
 I currently work at Starboard Studios, a Roblox based game development studio which has released game titles such as <a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE">The Wild West</a> with over 65M+ visits on the Roblox platform. 
 
   My job is to manage business policy, oversee business systems and infrastructure and make internal decisions regarding development workflows, etc. My job role also involves development related tasks for Starboard Studios such as internal tools, game development tasks and security testing to prevent exploits being abused by players.
