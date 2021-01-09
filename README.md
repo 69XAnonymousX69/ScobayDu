@@ -52,4 +52,4 @@ I have a general passion for reverse engineering and security. Occasionally, I'v
 
 <br/>
 
-<!--<p align="center"><a href="https://www.roblox.com/users/3933244/profile"><img src="https://cdn.kat.digital/Testing/Heart.svg" height="20"></a></p>-->
+<p align="center"><a href="https://www.roblox.com/users/3933244/profile"><img src="https://cdn.kat.digital/Testing/Heart.svg" height="20"></a></p>
