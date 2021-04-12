@@ -1,4 +1,4 @@
-<h1>Hey, I'm Tokio！✌ </h1>
+<h1>Hey, I'm Tokio！&nbsp;<img src="https://cdn.kat.digital/Testing/Happi.gif"></h1>
 <p><b>Avid Roblox Developer • <a href="https://www.16personalities.com/isfp-personality">ISFP-T</a> Personality Type </b>✨</p>
 
 <h3>Business Manager & Developer for Starboard Studios (<a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">The Wild West</a>)</h3>
