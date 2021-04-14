@@ -15,7 +15,7 @@ Any opinions I share are my own.
 
 * **Roblox Model File Decoder**<br/>
 This is a basic utility written in Roblox Lua to be able to read Roblox model files which are encoded with Roblox's binary format.<br>
-<br/><b>Technical Information:</b> <https://skylar.gg/2020-06-17-Roblox-Binary-File-Reader><br/><b>Roblox Developer Forum Post:</b> <https://devforum.roblox.com/t/roblox-model-file-decoder/630292>
+<br/><b>Technical Information:</b> <https://bun.gg/2020-06-17-Roblox-Binary-File-Reader><br/><b>Roblox Developer Forum Post:</b> <https://devforum.roblox.com/t/roblox-model-file-decoder/630292>
 
 <h3>📚 Experience</h3>
 
