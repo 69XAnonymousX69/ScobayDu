@@ -47,7 +47,7 @@ I have a general passion for reverse engineering and security. Occasionally, I'v
 
 
 <p>
-    <a href="https://twitter.com/TokioBunny_"><img src="https://cdn.kat.digital/Testing/Twitter.svg" height="14"></a><b> Twitter:</b> https://twitter.com/TokioBunny_
+    <a href="https://twitter.com/ScobayDu_"><img src="https://cdn.kat.digital/Testing/Twitter.svg" height="14"></a><b> Twitter:</b> https://twitter.com/ScobayDu_
 </p>
 
 <br/>
