@@ -45,6 +45,10 @@ I've volunteered for the <a href="https://www.roblox.com/groups/3055661/QA-Teste
     <a href="https://twitter.com/ScobayDu_"><img src="https://cdn.kat.digital/Testing/Twitter.svg" height="14"></a><b> Twitter:</b> https://twitter.com/ScobayDu_
 </p>
 
+<p>
+    <a href="https://ko-fi.com/ScobayDu">☕</a><b> Buy me a coffee:</b> https://ko-fi.com/ScobayDu
+</p>
+
 <br/>
 
 <p align="center"><a href="https://www.roblox.com/users/3933244/profile"><img src="https://cdn.kat.digital/Testing/Heart.svg" height="30"></a></p>
