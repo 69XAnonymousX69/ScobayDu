@@ -46,7 +46,8 @@ I've volunteered for the <a href="https://www.roblox.com/groups/3055661/QA-Teste
 </p>
 
 <p>
-    <a href="https://ko-fi.com/ScobayDu">☕</a><b> Buy me a coffee:</b> https://ko-fi.com/ScobayDu
+  <b><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="14">  Discord:</b> Sky#8343 <sub><sup>(User ID: 763368802892644362)</sub></sup><br/>
+<sub><sup><b>This is my official account. Don't trust people trying to impersonate me.</b></sub></sup>
 </p>
 
 <br/>
