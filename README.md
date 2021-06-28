@@ -1,4 +1,4 @@
-<h1><img src="https://cdn.kat.digital/Testing/Happi.gif">&nbsp;Hey, I'm Sky!</h1>
+<h1>Hey, I'm Sky!</h1>
 <p><b>Avid Roblox Developer • <a href="https://www.16personalities.com/isfp-personality">ISFP-T</a> Personality Type ✨ • <a href="https://ko-fi.com/ScobayDu">Buy me a coffee </a>☕</b></p>
 
 <h3>Business Manager & Developer for Starboard Studios (<a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">The Wild West</a>)</h3>
@@ -19,10 +19,10 @@ This is a basic utility written in Roblox Lua to be able to read Roblox model fi
 
 <h3>📚 Experience</h3>
 
-* **Business Manager & Developer at Starboard Studios** • <small><i>11th of August, 2020 - Present</i></small><br/>
-I currently work at Starboard Studios, a Roblox based game development studio which has released game titles such as <a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE">The Wild West</a> with over 95M+ visits on the Roblox platform. 
+* **Business Manager & Software Engineer at Starboard Studios** • <small><i>11th of August, 2020 - Present</i></small><br/>
+I currently work at Starboard Studios, a Roblox based game development studio which has released game titles such as <a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE">The Wild West</a> with over 111M+ visits on the Roblox platform. 
 
-  My responsibilities include part-time programming (i.e. security patches, bug fixing, etc), acting as a liaison between the development staff and management, generating statistics reports regarding developer analytics to make business decisions and developing and maintaining development schedules to reach internal milestones. I also act as a public representivie regarding all public community engagement and management of volunteer staff for our social channels i.e. Discord.
+  My responsibilities include programming (i.e. anti-cheat and abuse systems, security patches, bug fixing, etc), acting as a liaison between the development staff and management, generating statistics reports regarding developer analytics to make business decisions and developing and maintaining development schedules to reach internal milestones. I also act as a public representivie regarding all public community engagement and management of volunteer staff for our social channels i.e. Discord.
 
 * **Community Manager for Toy Planet** • <small><i>16th of November, 2020 - Present</i></small><br/>
 <a href="https://www.roblox.com/games/5132300825/Toy-Planet-Alpha">Toy Planet</a> is an upcoming game on Roblox. My job as the community manager is to manage the Toy Planet community Discord server; making sure that the community is connected to Toy Planet as a product and make changes to maintain community engagement and retention.
