@@ -11,18 +11,14 @@ I don’t really have a lot of open-source projects as a lot of what I do is con
 
 Any opinions I share are my own.
 
-<h3>🚀 Projects</h3>
-
-* **Roblox Model File Decoder**<br/>
-This is a basic utility written in Roblox Lua to be able to read Roblox model files which are encoded with Roblox's binary format.<br>
-<br/><b>Technical Information:</b> <https://bun.gg/2020-06-17-Roblox-Binary-File-Reader><br/><b>Roblox Developer Forum Post:</b> <https://devforum.roblox.com/t/roblox-model-file-decoder/630292>
-
 <h3>📚 Experience</h3>
 
 * **Business Manager & Software Engineer at Starboard Studios** • <small><i>11th of August, 2020 - Present</i></small><br/>
 I currently work at Starboard Studios, a Roblox based game development studio which has released game titles such as <a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE">The Wild West</a> with over 111M+ visits on the Roblox platform. 
 
-  My responsibilities include programming (i.e. anti-cheat and abuse systems, security patches, bug fixing, etc), acting as a liaison between the development staff and management, generating statistics reports regarding developer analytics to make business decisions and developing and maintaining development schedules to reach internal milestones. I also act as a public representivie regarding all public community engagement and management of volunteer staff for our social channels i.e. Discord.
+  My responsibilities include programming (i.e. anti-cheat and abuse systems, security patches, bug fixing, etc), acting as a liaison between the development staff and management, generating statistics reports regarding developer analytics to make business decisions and developing and maintaining development schedules to reach internal milestones. 
+
+  I also act as a public representivie regarding all public community engagement and management of volunteer staff for our social channels i.e. Discord.
 
 * **Community Manager for Toy Planet** • <small><i>16th of November, 2020 - Present</i></small><br/>
 <a href="https://www.roblox.com/games/5132300825/Toy-Planet-Alpha">Toy Planet</a> is an upcoming game on Roblox. My job as the community manager is to manage the Toy Planet community Discord server; making sure that the community is connected to Toy Planet as a product and make changes to maintain community engagement and retention.
@@ -30,8 +26,14 @@ I currently work at Starboard Studios, a Roblox based game development studio wh
 * **Volunteer for Roblox Quality Assurance Team** • <small><i>June, 2017 - April 2021</i></small><br/>
 I've volunteered for the <a href="https://www.roblox.com/groups/3055661/QA-Testers-of-Robloxia#!/about">Roblox Quality Assurance team</a>. This team helps perform quality assurance testing for official Roblox events such as the Roblox Egg Hunt events and also testing for other game developers. The role involves efficiently testing games and accurately reporting issues found within these games.
 
-<h3>💬 Socials</h3>
+<h3>🚀 Projects</h3>
 
+* **Roblox Model File Decoder**<br/>
+This is a basic utility written in Roblox Lua to be able to read Roblox model files which are encoded with Roblox's binary format.<br>
+<br/><b>Technical Information:</b> <https://bun.gg/2020-06-17-Roblox-Binary-File-Reader><br/><b>Roblox Developer Forum Post:</b> <https://devforum.roblox.com/t/roblox-model-file-decoder/630292>
+
+
+<h3>💬 Socials</h3>
 <p>
     <a href="https://www.roblox.com/users/1144151130/profile"><img src="https://cdn.kat.digital/Testing/Roblox.svg" height="14"></a><b> Roblox:</b> https://www.roblox.com/users/1144151130/profile
 </p>
