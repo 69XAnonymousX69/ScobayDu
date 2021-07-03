@@ -1,7 +1,7 @@
 <h1>Hey, I'm Sky!</h1>
-<p><b>Avid Roblox Developer • <a href="https://www.16personalities.com/isfp-personality">ISFP-T</a> Personality Type ✨ • <a href="https://ko-fi.com/ScobayDu">Buy me a coffee </a>☕</b></p>
+<p><b>Avid Roblox Developer • <a href="https://www.16personalities.com/isfp-personality">ISFP-T</a> Personality Type ✨</b></p>
 
-<h3>Business Manager & Developer for Starboard Studios (<a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">The Wild West</a>)</h3>
+<h3>Business Manager & Software Engineer for Starboard Studios (<a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">The Wild West</a>)</h3>
 <p><b>Discord Community:</b> <a href=https://discord.gg/starboardstudios>https://discord.gg/starboardstudios</a></p>
 
 <h3>🍕 About Me</h3>
