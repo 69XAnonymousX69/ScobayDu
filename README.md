@@ -48,7 +48,7 @@ This is a basic utility written in Roblox Lua to be able to read Roblox model fi
 </p>
 
 <p>
-  <b><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="14">  Discord:</b> Sky#8343<br/><sup>(User ID: 763368802892644362)</sup><br/>
+  <b><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="14">  Discord:</b> Sky#2491<br/><sup>(User ID: 815420246588391457)</sup><br/>
 <sub><sup><b>This is my official account. Don't trust people trying to impersonate me.</b></sub></sup>
 </p>
 
