@@ -47,9 +47,14 @@ This is a basic utility written in Roblox Lua to be able to read Roblox model fi
     <a href="https://twitter.com/ScobayDu_"><img src="https://cdn.kat.digital/Testing/Twitter.svg" height="14"></a><b> Twitter:</b> https://twitter.com/ScobayDu_
 </p>
 
-<p>
-  <b><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="14">  Discord:</b> Sky#2491<br/><sup>(User ID: 815420246588391457)</sup><br/>
-<sub><sup><b>This is my official account. Don't trust people trying to impersonate me.</b></sub></sup>
+<p align="center"
+<a href="#">
+  <img src="https://discord.c99.nl/widget/theme-3/763368802892644362.png" />
+</a>
+
+<a href="#">
+  <img src="https://discord.c99.nl/widget/theme-3/815420246588391457.png" />
+</a>
 </p>
 
 <br/>
