@@ -20,9 +20,6 @@ I currently work at Starboard Studios, a Roblox based game development studio wh
 
   I also act as a public representivie regarding all public community engagement and management of volunteer staff for our social channels i.e. Discord.
 
-* **Community Manager for Toy Planet** • <small><i>16th of November, 2020 - Present</i></small><br/>
-<a href="https://www.roblox.com/games/5132300825/Toy-Planet-Alpha">Toy Planet</a> is an upcoming game on Roblox. My job as the community manager is to manage the Toy Planet community Discord server; making sure that the community is connected to Toy Planet as a product and make changes to maintain community engagement and retention.
-
 * **Volunteer for Roblox Quality Assurance Team** • <small><i>June, 2017 - April 2021</i></small><br/>
 I've volunteered for the <a href="https://www.roblox.com/groups/3055661/QA-Testers-of-Robloxia#!/about">Roblox Quality Assurance team</a>. This team helps perform quality assurance testing for official Roblox events such as the Roblox Egg Hunt events and also testing for other game developers. The role involves efficiently testing games and accurately reporting issues found within these games.
 
