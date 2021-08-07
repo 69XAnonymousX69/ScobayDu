@@ -36,7 +36,7 @@ This is a basic utility written in Roblox Lua to be able to read Roblox model fi
 </p>
 
 <p>
-    <a href="https://devforum.roblox.com/u/ScobayDu"><img src="https://cdn.kat.digital/Testing/DevForum.svg" height="14"></a><b> Roblox Developer Forum:</b> https://devforum.roblox.com/u/ScobayDu • https://devforum.community/u/Sky
+    <a href="https://devforum.roblox.com/u/ScobayDu"><img src="https://cdn.kat.digital/Testing/DevForum.svg" height="14"></a><b> Roblox Developer Forum:</b> https://devforum.roblox.com/u/ScobayDu • https://talent.roblox.com/creators/1144151130
 </p>
 
 
