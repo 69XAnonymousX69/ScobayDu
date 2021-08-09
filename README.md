@@ -1,8 +1,10 @@
-<h1>Hey, I'm Sky!</h1>
-<p><b>Avid Roblox Developer • <a href="https://www.16personalities.com/isfp-personality">ISFP-T</a> Personality Type ✨</b></p>
+<div align="center">
 
-<h3>Business Manager & Software Engineer for Starboard Studios (<a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">The Wild West</a>)</h3>
-<p><b>Discord Community:</b> <a href=https://discord.gg/starboardstudios>https://discord.gg/starboardstudios</a></p>
+<h1>Hey, I'm Sky! ✌️</h1>
+<p><b>Avid Roblox Developer • <a href="https://www.16personalities.com/isfp-personality">ISFP-T</a> Personality Type ✨</b></p>
+<h3>Business Manager & Software Engineer for <a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">Starboard Studios</a></h3>
+
+</div>
 
 <h3>🍕 About Me</h3>
 I have experience with Lua, JavaScript and basic understanding of C++ and Assembly. My main passion is security, playing around with machine learning and business management.<br/><br/>
