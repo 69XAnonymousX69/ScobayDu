@@ -2,7 +2,7 @@
 
 <h1>Hey, I'm Sky! ✌️</h1>
 <p><b>Avid Roblox Developer • <a href="https://www.16personalities.com/isfp-personality">ISFP-T</a> Personality Type ✨</b></p>
-<h3>Business Manager & Software Engineer for <a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE-FACTIONS">Starboard Studios</a></h3>
+<h3>Business Manager & Software Engineer for <a href="https://www.roblox.com/games/2317712696/The-Wild-West">Starboard Studios</a></h3>
 
 </div>
 
@@ -16,7 +16,7 @@ Any opinions I share are my own.
 <h3>📚 Experience</h3>
 
 * **Business Manager & Software Engineer at Starboard Studios** • <small><i>11th of August, 2020 - Present</i></small><br/>
-I currently work at Starboard Studios, a Roblox based game development studio which has released game titles such as <a href="https://www.roblox.com/games/2317712696/The-Wild-West-FREE">The Wild West</a> with over 111M+ visits on the Roblox platform. 
+I currently work at Starboard Studios, a Roblox based game development studio which has released game titles such as <a href="https://www.roblox.com/games/2317712696/The-Wild-West">The Wild West</a> with over 120M+ visits on the Roblox platform. 
 
   My responsibilities include programming (i.e. anti-cheat and abuse systems, security patches, bug fixing, etc), acting as a liaison between the development staff and management, generating statistics reports regarding developer analytics to make business decisions and developing and maintaining development schedules to reach internal milestones. 
 
